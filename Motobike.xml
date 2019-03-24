@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Vehicle>
+  <Motobike>
+    <Company>Racer </Company>
+    <Model>Racer Ranger RC300-GY8</Model>
+    <EnginePower>19.7</EnginePower>
+    <releaseDate>2017</releaseDate>
+  </Motobike>
+</Vehicle>
